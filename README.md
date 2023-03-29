@@ -1,0 +1,2 @@
+# DotNetCoreMvc
+DotNetCoreMvc project 
